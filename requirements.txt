@@ -1,0 +1,7 @@
+streamlit
+pandas
+Pillow
+numpy
+geopy
+transformers
+torch
